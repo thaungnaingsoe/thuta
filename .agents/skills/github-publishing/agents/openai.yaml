@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Publishing"
+  short_description: "Publish a project and its sibling repositories to GitHub"
+  default_prompt: "Publish this project and its sibling projects to GitHub as public repositories, linking the sibling repositories as submodules."
